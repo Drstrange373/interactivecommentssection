@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Click me! :)](https://your-live-site-url.com)
+- Live Site URL: [Click me! :)](https://interactive-comment-section-challenge.netlify.app/)
 
 ## My process
 
